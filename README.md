@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Desafio 03: Conceitos do ReactJS
+  Desafio: Conceitos do ReactJS
 </h3>
 
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
